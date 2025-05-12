@@ -1,0 +1,13 @@
+[Libraries]
+[Libraries/
+Temp/
+Obj/
+Build/
+Library/
+Temp/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.log
