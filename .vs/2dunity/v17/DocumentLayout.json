@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\develop\\2dunity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55BB9669-421A-3132-84AC-71671798AA41}|Assembly-CSharp.csproj|e:\\develop\\2dunity\\assets\\scripts\\ch1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BB9669-421A-3132-84AC-71671798AA41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ch1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ch1.cs",
+              "DocumentMoniker": "E:\\develop\\2dunity\\Assets\\Scripts\\ch1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ch1.cs",
+              "ToolTip": "E:\\develop\\2dunity\\Assets\\Scripts\\ch1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ch1.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:53:23.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
